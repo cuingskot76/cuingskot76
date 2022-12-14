@@ -1,9 +1,8 @@
 # Hey there! I'm Afrizal. 👋
 <br>
-# 👨🏻‍💻 About Me <br>
+# 👨🏻‍💻 About Me
 - 🔭   I’m currently learning Front-End Dev
-<br>
--💼   I'm currently studying at University Muhammadiyah Purwokerto.<br> 
+- 💼   I'm currently studying at University Muhammadiyah Purwokerto.<br> 
 - ✍️   Getting used to reading (books, articles -> tech)<br>
 🛠    Tech Stack<br>
 🌐   HTML | CSS | JavaScript | React<br>
