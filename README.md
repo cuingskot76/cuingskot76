@@ -1,6 +1,5 @@
 # Hey there! I'm Afrizal. 👋
-<br>
-# 👨🏻‍💻 About Me
+👨🏻‍💻 About Me
 - 🔭   I’m currently learning Front-End Dev
 - 💼   I'm currently studying at University Muhammadiyah Purwokerto.<br> 
 - ✍️   Getting used to reading (books, articles -> tech)<br>
