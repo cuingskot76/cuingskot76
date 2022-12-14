@@ -1,6 +1,8 @@
 # Hey there! I'm Afrizal. 👋
 <br>
-## 👨🏻‍💻 About Me<br>🔭   I’m currently learning Front-End Dev<br>💼   I'm currently studying at University Muhammadiyah Purwokerto.<br>✍️   Getting used to reading (books, articles -> tech)<br>🛠    Tech Stack<br>🌐   HTML | CSS | JavaScript | React<br>🛢    MySQL <br>🔧   Visual Studio code | Github<br>🖥    Figma
+## 👨🏻‍💻 About Me
+🔭   I’m currently learning Front-End Dev
+<br>💼   I'm currently studying at University Muhammadiyah Purwokerto.<br>✍️   Getting used to reading (books, articles -> tech)<br>🛠    Tech Stack<br>🌐   HTML | CSS | JavaScript | React<br>🛢    MySQL <br>🔧   Visual Studio code | Github<br>🖥    Figma
 
 
 # 💻 Tech Stack:
