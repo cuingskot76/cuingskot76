@@ -1,4 +1,4 @@
-# Hey there! I'm Afrizal👋
+# Hey there! <br>  I am Afrizal 👋
 ## 👨🏻‍💻 About Me
 - 🔭   I’m currently learning Front-End Dev
 - 💼   I'm studying at University Muhammadiyah Purwokerto.<br> 
